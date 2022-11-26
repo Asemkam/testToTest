@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="another_activity_button_text">На другой экран</string>
+    <string name="second_activity_title_text">Это второй экран</string>
+</resources>
